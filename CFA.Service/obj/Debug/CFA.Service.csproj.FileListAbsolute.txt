@@ -1,0 +1,5 @@
+C:\Users\wutia\source\repos\CFATestApplication\CFA.Service\bin\Debug\CFA.Service.dll
+C:\Users\wutia\source\repos\CFATestApplication\CFA.Service\bin\Debug\CFA.Service.pdb
+C:\Users\wutia\source\repos\CFATestApplication\CFA.Service\obj\Debug\CFA.Service.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\CFATestApplication\CFA.Service\obj\Debug\CFA.Service.dll
+C:\Users\wutia\source\repos\CFATestApplication\CFA.Service\obj\Debug\CFA.Service.pdb
